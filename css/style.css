@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Shadow&family=Orbitron:wght@600&display=swap");
+
+body{
+    background: #000;
+}
+
+
+.fecha {
+  font-family: "Orbitron", sans-serif;
+  font-size: 2rem;
+  color: white;
+}
+
+.hora {
+  font-family: 'Londrina Shadow', cursive;
+  font-size: 2rem;
+  color: white;
+  letter-spacing: 3px
+}
+
+.azul {
+  text-shadow: 0 0 5px #7bacff, 0 0 10px #7bacff, 0 0 20px #7bacff, 0 0 45px #7bacff, 0 0 100px #7bacff;
+}
+.rosa {
+  text-shadow: 0 0 5px #ff7bca, 0 0 10px #ff7bca, 0 0 20px #ff7bca, 0 0 45px #ff7bca, 0 0 100px #ff7bca;
+}
+.verde {
+  text-shadow: 0 0 5px #7bffce, 0 0 10px #7bffce, 0 0 20px #7bffce, 0 0 45px #7bffce, 0 0 100px #7bffce;
+}
+
+/*botones*/
+.btn-azul{
+    background:#7bacff ;
+}
+.btn-rosa{
+    background:#ff7bca ;
+}
+.btn-verde{
+    background:#7bffce ;
+}
